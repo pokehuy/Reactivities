@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\huy\\Desktop\\Reactivities\\Domain\\Domain.csproj": {}
+    "/Users/huy/Desktop/Reactivities/Reactivities/Domain/Domain.csproj": {}
   },
   "projects": {
-    "c:\\Users\\huy\\Desktop\\Reactivities\\Domain\\Domain.csproj": {
+    "/Users/huy/Desktop/Reactivities/Reactivities/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\huy\\Desktop\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "/Users/huy/Desktop/Reactivities/Reactivities/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "c:\\Users\\huy\\Desktop\\Reactivities\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\huy\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\huy\\Desktop\\Reactivities\\Domain\\obj\\",
+        "projectPath": "/Users/huy/Desktop/Reactivities/Reactivities/Domain/Domain.csproj",
+        "packagesPath": "/Users/huy/.nuget/packages/",
+        "outputPath": "/Users/huy/Desktop/Reactivities/Reactivities/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\huy\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/huy/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
         }
       }
     }
